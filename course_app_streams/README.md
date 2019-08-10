@@ -1,0 +1,2 @@
+For this project we use JSON-server library to serve a json DB to make CRUD service calls with axios http library. 
+The intent is to simulate the functionality of a streming service where the users can sign in with Google API and OAuth 2.0 and manage their streams using React forms, router, redux and thunk.
