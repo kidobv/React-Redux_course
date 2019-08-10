@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "Kido's stream",
+      "description": "the best stream in the world .",
+      "id": 1
+    },
+    {
+      "title": "Kido2 stream",
+      "description": "the 2nd best",
+      "id": 2
+    },
+    {
+      "title": "Mika la loca",
+      "description": "perro stream la princesa loca",
+      "userId": "117636597251114231417",
+      "id": 6
+    },
+    {
+      "title": "Hello testing router history",
+      "description": "lolololelele",
+      "userId": "117636597251114231417",
+      "id": 7
+    },
+    {
+      "title": "Reformated stream create",
+      "description": "lets test itdadfff",
+      "id": 8
+    },
+    {
+      "description": "laughing",
+      "title": "yeah",
+      "userId": "117636597251114231417",
+      "id": 9
+    }
+  ]
+}
